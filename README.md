@@ -1,5 +1,5 @@
 - [Interactive Storytelling](#interactive-storytelling)
-  - [Live Demo](#live demo)
+  - [Live Demo](#live-demo)
   - [Prerequisites](#prerequisites)
   - [Getting Started](#getting-started)
     - [Steps](#steps)
